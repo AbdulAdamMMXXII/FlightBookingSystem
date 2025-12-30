@@ -83,5 +83,12 @@ This project was formally assessed as part of an undergraduate module and reflec
 
 ---
 
+## Authors
+
+- **Abdulrazig Adam**
+- **Afsana Akhi**
+
+---
+
 ## License
 This project is intended for academic and educational purposes.
